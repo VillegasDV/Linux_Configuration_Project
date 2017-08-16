@@ -3,8 +3,8 @@
 A project to setup a linux server from scratch and configure it to serve a catalog web application
 
 ## Connection Info
-* SSH IP Address = 54.43.166.203:2200
-* Web IP Address = 54.43.166.203
+* SSH IP Address = 52.43.166.203:2200
+* Web IP Address = 52.43.166.203
 
 ## Summary of software installed
 * Git
